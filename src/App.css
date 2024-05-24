@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.currency-1{
+  margin-left: 2vw;
+}
+
+
+.button-1, .button-2{
+  background-color: rgb(2, 192, 2);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 0;
+  /* text-align: center; */
+  
+}
+
+
+.button-2{
+  background-color: rgb(227, 3, 3);
+  
+  
+}
+
+.button-1 p {
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-bottom: 15px; */
+  /* position: absolute; */
+}
